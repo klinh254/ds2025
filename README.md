@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Trương Hoàng Khánh Linh
 * Student ID: 22BI13254
-* Student Group ID: Not-for-now
+* Student Group ID: 13
